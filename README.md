@@ -1,1 +1,1 @@
-# Codesoft_task1-
+This Python program takes two integer inputs from the user, offers a menu to select an arithmetic operation (subtraction, addition, multiplication, or division), and then performs the chosen operation on the inputs, displaying the result. If the user enters an invalid choice, it shows "Wrong choice." Essentially, it's a simple calculator program for basic arithmetic operations.
